@@ -1,2 +1,1 @@
 Notebooks/readme
-Class Activities
